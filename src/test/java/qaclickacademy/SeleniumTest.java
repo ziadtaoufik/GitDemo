@@ -12,6 +12,7 @@ public void BrowserAutomation()
 @Test 
 public void elementsUI()
 {
-	System.out.println("elementsUI");
+	System.out.println("elebdhdgthdftsUI");
+	System.out.println("deleteTwitgggedgter");
 	}
 }
