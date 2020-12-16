@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="75" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="75" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()" name="IOSApps" duration-ms="17" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()" name="NativeAppAndroid" duration-ms="16" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()" name="deleteTwitter" duration-ms="1" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="PostJira()" name="PostJira" duration-ms="1" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()" name="BrowserAutomation" duration-ms="1" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()" name="elementsUI" duration-ms="0" started-at="2020-12-14T14:58:00 CET" finished-at="2020-12-14T14:58:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
